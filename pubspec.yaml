@@ -1,0 +1,57 @@
+name: workshop_shopping_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_slidable: ^4.0.3
+  uuid: ^4.5.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/products/ch1/
+    - assets/products/ch2/
+    - assets/products/ch3/
+    - assets/products/ch4/
+    - assets/products/ch5/
+    - assets/products/ch6/
+    - assets/products/ch7/
+    - assets/products/ch8/
+    - assets/products/ch9/
+    - assets/products/au1/
+    - assets/products/au2/
+    - assets/products/au3/
+    - assets/products/au4/
+    - assets/products/au5/
+    - assets/products/au6/
+    - assets/products/au7/
+    - assets/products/au8/
+    - assets/products/au9/
+    - assets/products/au10/
+    - assets/products/au11/
+    - assets/products/au12/
+    - assets/products/au13/
+    - assets/products/ca1/
+    - assets/products/ca2/
+    - assets/products/ca3/
+    - assets/products/ca4/
+    - assets/products/ot1/
+    - assets/products/ot2/
+    - assets/products/ot3/
+    - assets/products/ot4/
+    - assets/products/ot5/
+    - assets/products/ot6/
