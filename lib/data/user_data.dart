@@ -7,6 +7,6 @@ final User user = User(
   name: "Jimmy",
   email: "jimmy@gmail.com",
   // A placeholder image that actually works
-  photoUrl: "https://i.pinimg.com/736x/91/92/20/91922097072461019672027202027961.jpg",
+  photoUrl: "assets/profile.jpg",
   address: "123 Taman ABC Kemaman Terengganu",
 );

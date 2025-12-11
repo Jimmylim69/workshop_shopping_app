@@ -84,7 +84,7 @@ class AccountPage extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 40,
-            backgroundImage: NetworkImage(photoUrl),
+            backgroundImage: AssetImage(photoUrl),
             backgroundColor: Theme.of(context).colorScheme.surface,
           ),
 
