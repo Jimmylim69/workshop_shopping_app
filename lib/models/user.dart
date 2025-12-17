@@ -1,13 +1,17 @@
 class User {
   final String name;
   final String email;
+  final String phoneNumber;
   final String photoUrl;
   final String address;
+  final DateTime createdAt;
 
   User({
     required this.name,
     required this.email,
+    required this.phoneNumber,
     required this.photoUrl,
     required this.address,
+    required this.createdAt,
   });
 }
